@@ -23,5 +23,5 @@
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=Git&logoColor=white)
 
-<span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=carljings&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" /> </span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljings&layout=compact" height="137px" /></span>
+<span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=carljings&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" /></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljings&layout=compact" height="137px" /></span>
 
