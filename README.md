@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Xiao Chuan.![](https://komarev.com/ghpvc/?username=carljings&color=blue&style=flat-square)
+## Hi there 👋 I'm Xiao Chuan  ![](https://komarev.com/ghpvc/?username=carljings&color=blue&style=flat-square)
 
 
 -🔭 I’m currently working on government big data <br>
