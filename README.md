@@ -12,8 +12,6 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=carljings&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" /> -->
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-
 ![java](https://img.shields.io/badge/-java-purple?style=plastic)
 ![python](https://img.shields.io/badge/-python-ffd343?style=plastic&logo=Python)
 ![pytorch](https://img.shields.io/badge/-pytorch-green?style=plastic&logo=PyTorch)
