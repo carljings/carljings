@@ -14,14 +14,19 @@
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 
-
+![java](https://img.shields.io/badge/-java-purple?style=plastic)
+![python](https://img.shields.io/badge/-python-ffd343?style=plastic&logo=Python)
+![pytorch](https://img.shields.io/badge/-pytorch-green?style=plastic&logo=PyTorch)
+![Mysql](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&logoColor=white)<br>
 ![html](https://img.shields.io/badge/-html-E34F26?style=plastic&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/-css-1572B6?style=plastic&logo=css3)
-![](https://img.shields.io/badge/JavaScript-red?style=plastic&logo=javascript) 
-![Mysql](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql&logoColor=black)
-
+![javascript](https://img.shields.io/badge/JavaScript-red?style=plastic&logo=javascript)
+![node.js](https://img.shields.io/badge/-node.js-blue?style=plastic&logo=Node.js)<br>
+![eclipse](https://img.shields.io/badge/-eclipse-darkblue?style=plastic&logo=Eclipse%20IDE)
+![idea](https://img.shields.io/badge/-idea-black?style=plastic&logo=IntelliJ%20IDEA)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://linweiqian.github.io/linweiqianBlog/)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=plastic&logo=Git&logoColor=white)
+
 
 <span><img height="137px" src="https://github-readme-stats.vercel.app/api?username=carljings&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" /></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljings&layout=compact" height="137px" /></span>
 
