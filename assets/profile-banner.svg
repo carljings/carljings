@@ -1,30 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I'm Xiao Chuan</title>
-  <desc id="desc">A blue paper plane flying toward the sun. Success lies in accumulation.</desc>
-  <rect width="1200" height="320" rx="22" fill="#F0F8FB"/>
-  <path d="M725 320C778 206 943 298 1033 169S1174 87 1200 45V320Z" fill="#E0F0F5"/>
-  <path d="M940 0C929 59 1011 92 1073 63S1163 36 1200 66V0Z" fill="#E7F3F7"/>
-  <g fill="none" stroke="#C2DBE5" stroke-width="1.5">
-    <path d="M774 43H800M787 30V56M1117 243H1137M1127 233V253"/>
-    <circle cx="710" cy="257" r="4"/>
-    <circle cx="1170" cy="156" r="3"/>
+  <desc id="desc">A blue paper plane, a golden sun and a light flight trail on white. Success lies in accumulation.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EFF9FF"/>
+    </linearGradient>
+    <linearGradient id="wing" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E6F8FF"/>
+      <stop offset="1" stop-color="#88CFEA"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#D5EAF4" stop-opacity="0"/>
+      <stop offset="1" stop-color="#72B9D9"/>
+    </linearGradient>
+    <pattern id="dots" x="0" y="0" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#BCD9E8"/>
+    </pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="208" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="1" y="1" width="1198" height="208" fill="#FFFFFF"/>
+    <path d="M689 210C771 114 815 20 942 0H1200V210Z" fill="url(#sky)"/>
+    <rect x="815" y="16" width="366" height="180" fill="url(#dots)" opacity=".6"/>
+    <circle cx="1027" cy="98" r="113" fill="none" stroke="#D8ECF6" stroke-width="1"/>
+    <circle cx="1027" cy="98" r="87" fill="none" stroke="#E7F3F9" stroke-width="12"/>
+    <path d="M641 173H810M702 152H851M752 130H883" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M686 191C735 156 778 196 807 162S795 123 781 141C767 162 835 174 893 128" fill="none" stroke="#8CBFD5" stroke-width="2" stroke-dasharray="4 7" stroke-linecap="round"/>
+    <g fill="none" stroke="#E7B844" stroke-width="3" stroke-linecap="round">
+      <circle cx="1085" cy="47" r="16" fill="#FFE7A0" stroke="none"/>
+      <path d="M1085 18V11M1085 83V76M1056 47H1049M1121 47H1114M1064 26L1059 21M1106 68L1111 73M1064 68L1059 73M1106 26L1111 21"/>
+    </g>
+    <g stroke="#33536A" stroke-width="2.8" stroke-linejoin="round">
+      <path d="M863 93L1104 69L948 184L931 123Z" fill="#FFFFFF"/>
+      <path d="M931 123L1104 69L969 144L948 184Z" fill="url(#wing)"/>
+      <path d="M969 144L1030 169L1104 69Z" fill="#DFF3FC"/>
+      <path d="M863 93L931 123L1104 69Z" fill="#FFFFFF"/>
+    </g>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="43" y="48" font-size="23" fill="#547082">Hi, I'm</text>
+      <text x="40" y="121" font-size="69" font-weight="750" letter-spacing="-2.5" fill="#243D50">Xiao Chuan<tspan fill="#5CAACB">.</tspan></text>
+      <rect x="44" y="158" width="26" height="3" rx="1.5" fill="#E7B844"/>
+      <text x="83" y="166" font-size="21" fill="#547082">Success lies in accumulation.</text>
+      <text x="1160" y="188" font-size="10" letter-spacing="2" fill="#7794A5" text-anchor="end">CARLJINGS</text>
+    </g>
   </g>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="60" y="65" font-size="17" font-weight="600" letter-spacing="4" fill="#39748A">CARLJINGS</text>
-    <text x="57" y="128" font-size="40" font-weight="400" fill="#46606D">Hi, I'm</text>
-    <text x="56" y="208" font-size="76" font-weight="750" letter-spacing="-3" fill="#243746">Xiao Chuan.</text>
-    <rect x="60" y="246" width="34" height="4" rx="2" fill="#E8B63E"/>
-    <text x="109" y="255" font-size="22" fill="#46606D">Success lies in accumulation.</text>
-  </g>
-  <g fill="none" stroke="#E8B63E" stroke-width="5" stroke-linecap="round">
-    <circle cx="1005" cy="77" r="23" fill="#FFE9A9" stroke="none"/>
-    <path d="M1005 34V24M1005 130V120M962 77H952M1058 77H1048M975 47L967 39M1035 107L1043 115M975 107L967 115M1035 47L1043 39"/>
-  </g>
-  <path d="M650 267C704 226 738 295 785 251S782 182 755 205C730 229 823 250 876 181" fill="none" stroke="#81B9CD" stroke-width="3" stroke-linecap="round" stroke-dasharray="6 10"/>
-  <g stroke="#243746" stroke-width="4" stroke-linejoin="round">
-    <path d="M830 145L1092 110L921 250L907 180Z" fill="#FFFFFF"/>
-    <path d="M907 180L1092 110L943 204L921 250Z" fill="#A9DCEC"/>
-    <path d="M943 204L1012 228L1092 110Z" fill="#D7EDF5"/>
-    <path d="M830 145L907 180L1092 110Z" fill="#FFFFFF"/>
-  </g>
+  <rect x="1" y="1" width="1198" height="208" rx="18" fill="none" stroke="#E1ECF2"/>
 </svg>
