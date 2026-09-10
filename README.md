@@ -1,8 +1,8 @@
 ![Hi, I'm Xiao Chuan — Success lies in accumulation.](assets/profile-banner.svg)
 
-🔭 Working on **government big data** · 🌱 Learning **Node.js & PyTorch**
+🔭 Working on **government big data** · 🌱 Currently learning **AI Agents & LLMs**
 
-我的作品：[🌍 挖穿地球](https://carljings.top/earthcore/) · [✍️ Blog](https://carljings.top/blog/) · [🏸 BAD球友](https://carljings.top/)
+My projects: [🌍 挖穿地球](https://carljings.top/earthcore/) · [✍️ Blog](https://carljings.top/blog/) · [🏸 BAD球友](https://carljings.top/)
 
 ![Java](https://img.shields.io/badge/Java-EDF4F8?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-EDF4F8?style=flat-square&logo=python&logoColor=3776AB)
