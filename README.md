@@ -12,8 +12,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDF4F8?style=flat-square&logo=javascript&logoColor=9A7600)
 ![Node.js](https://img.shields.io/badge/Node.js-EDF4F8?style=flat-square&logo=nodedotjs&logoColor=43853D)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EDF4F8?style=flat-square&logo=pytorch&logoColor=DE5533)
+![AI](https://img.shields.io/badge/AI-EDF4F8?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-EDF4F8?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-EDF4F8?style=flat-square)
+
+<a href="https://github.com/carljings?tab=overview"><img width="430" src="https://github-stats-extended.vercel.app/api?username=carljings&show_icons=true&hide_border=true&bg_color=ffffff&title_color=33536A&text_color=547082&icon_color=5CAACB&ring_color=5CAACB&rank_icon=default&disable_animations=true&custom_title=GitHub%20Activity" alt="carljings 的 GitHub 公开贡献统计与等级：包含过去一年的提交和贡献仓库" /></a>
 
 <sub>🛠 IntelliJ IDEA · VS Code · Eclipse · Git</sub><br>
 <sub>🏸 Badminton · 🏊 Swimming · 🚴 Cycling · 🏃 Running · 🏀 Basketball · 🏓 Table tennis · 🎿 Skiing</sub>
 
-<sub><a href="mailto:895784156@qq.com">Email</a> · <a href="https://blog.csdn.net/carljings">CSDN</a> &nbsp; / &nbsp; Success lies in accumulation.</sub>
+<sub><a href="mailto:carljings@qq.com">carljings@qq.com</a> · <a href="https://blog.csdn.net/carljings">CSDN</a> &nbsp; / &nbsp; Success lies in accumulation.</sub>
