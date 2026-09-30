@@ -3,41 +3,41 @@
   <img alt="Hi, I'm Xiao Chuan — Success lies in accumulation." src="assets/profile-banner.svg">
 </picture>
 
-🔭 Working on **government big data** in Suzhou · 🤖 Building with **AI agents & LLMs**<br>
-🔭 在苏州做**政务大数据** · 🤖 用 **AI Agent 和大模型**做点有意思的东西
+👋 Developer in Suzhou, China, working on **government big data** and building with **AI agents & LLMs**.
 
-### 🚀 Featured projects · 作品
+<p>
+<a href="https://carljings.top"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/link-site-dark.svg"><img alt="Website: carljings.top" src="assets/ui/link-site-light.svg"></picture></a>
+<a href="https://carljings.top/blog/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/link-blog-dark.svg"><img alt="Blog" src="assets/ui/link-blog-light.svg"></picture></a>
+<a href="mailto:carljings@qq.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/link-email-dark.svg"><img alt="Email: carljings@qq.com" src="assets/ui/link-email-light.svg"></picture></a>
+<a href="https://blog.csdn.net/carljings"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/link-csdn-dark.svg"><img alt="CSDN" src="assets/ui/link-csdn-light.svg"></picture></a>
+</p>
 
-| Project | What it is |
-|---|---|
-| 🧠 **[AI 全栈实战教学](https://carljings.top/ai/)**<br><sub>[source](https://github.com/carljings/ai-tutorial)</sub> | A 254-chapter illustrated AI tutorial: LLM training, agent engineering, RAG, Transformers<br><sub>254 章 AI 深度图文教程：LLM 训练、Agent 工程、RAG、Transformer 原理</sub> |
-| 🎬 **[人工智能简史 · The History of AI](https://github.com/carljings/ai-history-video)**<br><sub>[▶ 2 min](https://github.com/carljings/ai-history-video/releases/tag/v1.0) · [▶ 5 min](https://github.com/carljings/ai-history-video/releases/tag/5min-v1.0)</sub> | Motion-graphics films generated entirely from code: canvas animation plus a synthesized soundtrack<br><sub>纯代码生成的 AI 发展史动画，2 分钟版与 5 分钟中英双语版</sub> |
-| 🏸 **[BAD球友](https://carljings.top/)**<br><sub>Spring Boot · WeChat</sub> | A WeChat mini-program for amateur badminton groups: sign-ups, auto pairings, live scoring, skill ratings<br><sub>业余羽毛球社群小程序：活动接龙、智能对阵、比赛记分、段位评测</sub> |
-| ⛏️ **[挖穿地球 · Earthcore](https://carljings.top/earthcore/)**<br><sub>TypeScript · Vite</sub> | An original browser incremental game: start with a spoon and dig to the Earth's core<br><sub>原创浏览器增量挖掘游戏：从一把勺子开始，一路挖到地心</sub> |
-| ☕ **[tinysc](https://github.com/carljings/tinysc)**<br><sub>Java 8 · Servlet 3.1</sub> | A lightweight Servlet container for single-WAR deployment (alpha)<br><sub>面向单 WAR 部署的轻量 Servlet 容器</sub> |
-| 🐄 **[检疫员考试刷题](https://carljings.top/quiz/)**<br><sub>[source](https://github.com/carljings/cattle-sheep-quarantine-quiz)</sub> | Practice and mock exams for the cattle & sheep slaughter quarantine inspector exam<br><sub>牛羊屠宰检疫员资格考试：分模块练习与模拟考试</sub> |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/section-projects-dark.svg"><img alt="Featured projects" src="assets/ui/section-projects-light.svg"></picture>
 
-<sub>More · 更多：[✍️ Blog 博客](https://carljings.top/blog/) · [⚖️ 廉政专题学习站](https://carljings.top/lz/) · [🏸 zg 羽毛球场地捡漏](https://github.com/carljings/zg)</sub>
+<p>
+<a href="https://carljings.top/ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-ai-course-dark.svg"><img alt="AI Full-Stack Course: a 254-chapter illustrated deep dive into LLM training, agent engineering, RAG and Transformers (in Chinese)" src="assets/ui/project-ai-course-light.svg" width="49%"></picture></a>
+<a href="https://github.com/carljings/ai-history-video"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-ai-history-dark.svg"><img alt="The History of AI: films rendered entirely from code, in 2-minute and 5-minute bilingual cuts" src="assets/ui/project-ai-history-light.svg" width="49%"></picture></a>
+<a href="https://carljings.top/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-bad-buddies-dark.svg"><img alt="BAD球友: a WeChat mini-program for amateur badminton meetups with sign-ups, auto pairings, live scoring and skill ratings" src="assets/ui/project-bad-buddies-light.svg" width="49%"></picture></a>
+<a href="https://carljings.top/earthcore/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-earthcore-dark.svg"><img alt="Earthcore Clicker: an original incremental browser game where you dig from a spoon to the Earth's core" src="assets/ui/project-earthcore-light.svg" width="49%"></picture></a>
+<a href="https://github.com/carljings/tinysc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-tinysc-dark.svg"><img alt="tinysc: a lightweight Servlet container for single-WAR deployment on Java 8" src="assets/ui/project-tinysc-light.svg" width="49%"></picture></a>
+<a href="https://carljings.top/quiz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/project-quarantine-quiz-dark.svg"><img alt="Quarantine Inspector Quiz: module practice and mock exams for the cattle and sheep quarantine inspector exam" src="assets/ui/project-quarantine-quiz-light.svg" width="49%"></picture></a>
+</p>
 
-### 🧰 Tech stack · 技术栈
+<sub>Also: <a href="https://github.com/carljings/zg">zg</a>, a badminton court-slot grabber · <a href="https://carljings.top/lz/">a clean-governance study site</a> · source code for <a href="https://github.com/carljings/ai-tutorial">the AI course</a> and <a href="https://github.com/carljings/cattle-sheep-quarantine-quiz">the quiz</a></sub>
 
-![Java](https://img.shields.io/badge/Java-33536A?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-33536A?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-33536A?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-33536A?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-33536A?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-33536A?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-33536A?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-33536A?style=flat-square&logo=postgresql&logoColor=white)
-![WeChat Mini Program](https://img.shields.io/badge/WeChat_Mini_Program-33536A?style=flat-square&logo=wechat&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-33536A?style=flat-square&logo=pytorch&logoColor=white)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/section-stack-dark.svg"><img alt="Tech stack" src="assets/ui/section-stack-light.svg"></picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cts%2Cjs%2Cnodejs%2Cmysql%2Cpostgres%2Cpytorch%2Cvite%2Cdocker%2Cnginx&theme=dark&perline=12">
+  <img alt="Java, Spring Boot, Python, TypeScript, JavaScript, Node.js, MySQL, PostgreSQL, PyTorch, Vite, Docker, Nginx" src="https://skillicons.dev/icons?i=java%2Cspring%2Cpy%2Cts%2Cjs%2Cnodejs%2Cmysql%2Cpostgres%2Cpytorch%2Cvite%2Cdocker%2Cnginx&theme=light&perline=12">
+</picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/section-activity-dark.svg"><img alt="GitHub activity" src="assets/ui/section-activity-light.svg"></picture>
 <a href="https://github.com/carljings?tab=overview">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=carljings&show_icons=true&hide_border=true&hide_rank=true&disable_animations=true&custom_title=GitHub%20Activity&bg_color=0d1117&title_color=9CC9DF&text_color=8FA9BA&icon_color=5CAACB">
-    <img alt="carljings 的 GitHub 公开贡献统计：获得的星标、过去一年的提交、PR 与参与的仓库" src="https://github-stats-extended.vercel.app/api?username=carljings&show_icons=true&hide_border=true&hide_rank=true&disable_animations=true&custom_title=GitHub%20Activity&bg_color=ffffff&title_color=33536A&text_color=547082&icon_color=5CAACB">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=carljings&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&disable_animations=true&bg_color=0d1117&text_color=9DB1BF&icon_color=5CAACB">
+    <img alt="GitHub stats for carljings: stars earned, commits and pull requests in the last year, repositories contributed to" src="https://github-stats-extended.vercel.app/api?username=carljings&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&disable_animations=true&bg_color=ffffff&text_color=547082&icon_color=5CAACB">
   </picture>
 </a>
 
-<sub>Off the keyboard · 工作之外：🏸 Badminton 羽毛球 · 🏊 Swimming 游泳 · 🚴 Cycling 骑行</sub><br>
-<sub>📫 <a href="mailto:carljings@qq.com">carljings@qq.com</a> · <a href="https://carljings.top/blog/">Blog</a> · <a href="https://blog.csdn.net/carljings">CSDN</a></sub>
+<sub>Off the keyboard: 🏸 badminton · 🏊 swimming · 🚴 cycling</sub>
